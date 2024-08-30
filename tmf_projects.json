@@ -1,0 +1,214 @@
+[
+    {
+        "Title": "Better infrastructure for national service grants at AmeriCorps",
+        "Agency": "AMERICORPS",
+        "Project": "Grants management modernization",
+        "Investment start": "August 2022.",
+        "Challenge": "AmeriCorps ensures that every American over the age of 18 has the opportunity to participate in national service and that U.S. community-based organizations can benefit from national service resources. AmeriCorps’ current system for more than 2,800 nonprofit, faith, and community-based organizations to apply for funding or manage existing federal national service grants is outdated. The system cannot integrate with other federal systems, making it burdensome for organizations to apply. It also lacks modern business intelligence capabilities to manage grants and restricts AmeriCorps’ ability to keep pace with grant-making standards and technical needs.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "100%",
+            "Repayment status": "86%",
+            "Schedule delay": "no",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$14,000,000",
+            "TMF spend to date (obligated)": "$10,159,063",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, AmeriCorps is working to:",
+        "More Details": [
+            "Reduce barriers to accessing AmeriCorps’ resources",
+            "Support over 1,300 existing grantees and improve customer experience for about 250,000 individuals from over 40,000 communities",
+            "Expand its ability to recruit and retain new organizations"
+        ],
+        "This investment will": ""
+    },
+    {
+        "Title": "Supporting more efficient, digitized processing of noncitizens",
+        "Agency": "U.S. DEPARTMENT OF HOMELAND SECURITY (DHS)",
+        "Project": "Southwest Border Technology Integration Program",
+        "Investment start": "September 2021.",
+        "Challenge": "Southwest Border processing currently involves multiple DHS components and partner agencies, each operating on independent data systems and with many key handoffs still taking place with paper files.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "100%",
+            "Repayment status": "20%",
+            "Schedule delay": "yes",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$50,000,000",
+            "TMF spend to date (obligated)": "$50,000,000",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, DHS’s Southwest Border Technology Integration Program is working to:",
+        "More Details": [
+            "Replace remaining outdated manual data processes associated with border enforcement with a fully automated and interoperable platform to facilitate efficient and timely intake of noncitizens, protection of unaccompanied children, and reunification of families",
+            "Provide standardized and secure data sharing across the federal enterprise and throughout the immigration lifecycle to improve border flow, capacity management, and timeliness and fidelity of data used by decision makers",
+            "Connect disparate systems, improve cross-agency collaboration, and support data-driven decision-making"
+        ]
+    },
+    {
+        "Title": "Modernizing operational technology to protect Army organic industrial bases",
+        "Agency": "U.S. DEPARTMENT OF DEFENSE, DEPARTMENT OF THE ARMY (DOD-Army)",
+        "Project": "Critical infrastructure cyber protection",
+        "Investment start": "October 2022.",
+        "Challenge": "The U.S. Army operates manufacturing arsenals, maintenance depots, and ammunition plants, known as Organic Industrial Bases (OIB). With 26 OIB locations operated by 28,000 employees and an estimated 500,000 devices, the bases represent a significant attack surface area. Any insecurities in the operational technology that support these OIB locations could pose grave national security risks, including disrupted production, destroyed equipment, injured workers, and impacted coordination with partner agencies.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "100%",
+            "Repayment status": "20%",
+            "Schedule delay": "yes",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$15,575,246",
+            "TMF spend to date (obligated)": "$11,489,502",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, Army is modernizing OIB operational technology to:",
+        "More Details": [
+            "Enable Attack Sensing and Warning and Vulnerability Assessment cyber capabilities",
+            "Establish a Security Operations Center as a Service framework to ensure cyber defenders can monitor, respond to, and remediate cyber threats"
+        ]
+    },
+    {
+        "Title": "Securing student and borrower data",
+        "Agency": "U.S. DEPARTMENT OF EDUCATION (ED)",
+        "Project": "Zero trust architecture",
+        "Investment start": "September 2021.",
+        "Challenge": "An increasingly hostile cyber threat environment makes it crucial for the Department of Education to update its security approach.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "100%",
+            "Repayment status": "12%",
+            "Schedule delay": "yes",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$20,000,000",
+            "TMF spend to date (obligated)": "$12,927,237.72",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, ED is working to:",
+        "More Details": [
+            "Stand up an enterprise-wide program management office dedicated to zero trust",
+            "Enable a zero trust program that includes strategy, architecture, design, and an implementation roadmap",
+            "Establish a catalog of services with secure access service edge and security orchestration, automation, and response technologies",
+            "Adopt an advanced architecture across cloud-computing environments"
+        ]
+    },
+    {
+        "Title": "Creating intuitive software for campaign filers",
+        "Agency": "FEDERAL ELECTION COMMISSION (FEC)",
+        "Project": "Modernizing FECFile",
+        "Challenge": "FEC protects the integrity of the federal campaign finance process by providing transparency and fairly enforcing and administering federal campaign finance laws. Currently, per statutory mandate, FEC provides free software that allows filers—individuals running for office and more than 9,000 political committees—to meet their campaign finance disclosure requirements. This software was originally released in 1997 and operates exclusively on Windows-based PCs, restricting accessibility, security, and functionality on non-Windows-based computers and causing compatibility issues and inconvenience for filers.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "not yet initiated",
+            "Repayment status": "not yet initiated",
+            "Schedule delay": "no",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$8,824,934",
+            "TMF spend to date (obligated)": "$0",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, FEC will:",
+        "More Details": [
+            "Modernize FECFile Online, a cloud-based, web-accessible, intuitive software for filers that improves data quality and enhances security",
+            "Create an open-source product for vendors and state agencies to use in their own development efforts"
+        ]
+    },
+    {
+        "Title": "Improving cybersecurity and enabling real-time response to threats",
+        "GENERAL SERVICES ADMINISTRATION (GSA)": "Advancing zero trust",
+        "Investment start": "September 2021.",
+        "Challenge": "GSA must improve its cybersecurity capabilities to continually verify the security of users, devices, applications, and data by maturing its zero trust architecture. This will also help achieve broad-based visibility across the GSA ecosystem, with enhanced automation to enable real-time response to threats.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "82%",
+            "Repayment status": "33%",
+            "Schedule delay": "no",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$29,802,431",
+            "TMF spend to date (obligated)": "$22,332,000",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, GSA is focused on three areas:",
+        "More Details": [
+            "Users and devices: modernize directory designs to better support GSA’s multi-domain hybrid cloud architectures and develop a modern enterprise authentication solution",
+            "Networks: leverage a secure access service edge solution and enhance the security of its public buildings’ security network",
+            "Security operations: adopt increased machine learning and artificial intelligence-driven algorithms that connect diverse data sources and highlight threats, provide security oversight for cyber supply chain risk management, and enhance core security operations centers to include government-wide public-facing digital services"
+        ]
+    },
+    {
+        "Title": "Expanding the usage of Login.gov, especially in underserved populations",
+        "GENERAL SERVICES ADMINISTRATION (GSA)": "Login.gov",
+        "Investment start": "September 2021.",
+        "Challenge": "Login.gov enables members of the public to create a single digital account that provides access to their benefits and services at over 40 federal and state agencies. This “one account for government” saves users time, saves taxpayers money, reduces complexity for agencies, and ensures consistent security and anti-fraud practices across government.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "85%",
+            "Repayment status": "14%",
+            "Schedule delay": "no",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$187,050,000",
+            "TMF spend to date (obligated)": "$88,918,088",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, GSA is working to:",
+        "More Details": [
+            "Strengthen cybersecurity and anti-fraud protection for users",
+            "Address identity verification barriers for underserved groups",
+            "Make it easier for agencies to adopt Login.gov, so the public can realize the benefits of a single digital account"
+        ]
+    },
+    {
+        "Title": "Facilitating public participation in the federal rulemaking process",
+        "GENERAL SERVICES ADMINISTRATION (GSA)": "Modernizing regulatory services for the public and the federal government",
+        "Investment start": "January 2024.",
+        "Challenge": "The GSA eRulemaking Program was established in 2002 to provide shared services for rulemaking as a federal-wide line of business. The public relies on Regulations.gov to review and comment on proposed regulatory and non-regulatory actions. Federal agencies rely on the Federal Docket Management System (FDMS) to publish information on the proposed actions to Regulations.gov and to review and consider public comments. However, the eRulemaking Program needs significant upgrades, without which there is a risk to continuity of service. Longer term, the current services will not support the needs of agency staff who must respond to high and likely increasing volumes of public comments.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "33%",
+            "Repayment status": "not yet initiated",
+            "Schedule delay": "no",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$19,700,954",
+            "TMF spend to date (obligated)": "$6,448,241",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, GSA will:",
+        "More Details": [
+            "Implement cost-effective and improved regulatory services that benefit public and federal government users while eliminating the risk of system failure",
+            "Address near-term security vulnerabilities and risks in the current rulemaking system",
+            "Begin a multi-year effort to transition to a modernized architecture that will better meet the needs of public and government users"
+        ]
+    },
+    {
+        "Title": "A unified, modern way for veterans to access benefits across VA",
+        "Agency": "U.S. DEPARTMENT OF VETERANS AFFAIRS (VA)",
+        "Project": "Digitizing forms and personalizing experiences for better veterans benefits management and customer support",
+        "Investment start": "July 2023.",
+        "Challenge": "Veterans and their families use VA.gov to access benefits like health care, disability, education, and pension. Many of these services are accessed via forms that are collectively used or downloaded over two million times per month. These services often require veterans to use paper forms and input the same data repeatedly across various platforms. With multiple VA staff needed to process each paper form, a cost of $500k to digitize each form, and hundreds of forms left undigitized, veterans face delayed access to the benefits they’ve earned.",
+        "Project Details": {
+            "Project status": "active",
+            "Transfer status": "67%",
+            "Repayment status": "not yet initiated",
+            "Schedule delay": "no",
+            "Cost overruns": "no",
+            "ARP funding": "yes",
+            "Total TMF investment amount": "$7,378,730",
+            "TMF spend to date (obligated)": "$0",
+            "Commercial product": "no"
+        },
+        "Approach": "With TMF support, VA is digitizing and centralizing forms at scale to:",
+        "More Details": [
+            "Create low- to no-code form building capabilities",
+            "Contribute reusable code and research findings back to USWDS in a format that can be readily scaled and deployed by other agencies"
+        ],
+        "VA is partnering with U.S. Web Design System (USWDS) to": ""
+    }
+]
